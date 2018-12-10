@@ -1,10 +1,10 @@
 # Teste2018
 Repositorio de Teste
   - Um
-  - dois
-  - três
+  - Dois
+  - Três
 
-Lista de itens 
-  - [ ] ssadsa
-  - [x] dsadsadsa
-  - [ ] dsadsadsa
+Lista de check
+  - [ ] Item 1
+  - [x] Item 2
+  - [ ] Item 3
